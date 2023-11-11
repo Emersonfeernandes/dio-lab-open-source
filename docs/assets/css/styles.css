@@ -45,7 +45,7 @@ html {
 body {
     font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
     color: var(--black);
-    background: var(--gray-100);
+    background: var(--gray-99);
     width: 100vw;
     overflow-x: hidden;
 }
